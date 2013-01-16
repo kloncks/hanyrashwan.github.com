@@ -1,7 +1,7 @@
 auto: true
 paginate: 10 //the number of post per page
 permalink: /:categories/:year/:title
-url: http://davidkuchar.com
+url: http://hanyrashwan.github.com
 server_port: 4000
 markdown: rdiscount
 // feed: http://feeds.davidkuchar.com/davidkuchar
